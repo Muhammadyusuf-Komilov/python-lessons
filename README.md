@@ -1,2 +1,2 @@
 # python-lessons
-Ushbu repositoryda python darslariga iod kodlar jamlangan
+Ushbu repositoryda python darslariga oid kodlar jamlangan
